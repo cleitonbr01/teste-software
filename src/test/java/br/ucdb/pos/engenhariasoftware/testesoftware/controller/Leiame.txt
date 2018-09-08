@@ -1,0 +1,5 @@
+
+CONCLUSÃO DA COMPARAÇÃO DE EXTRAÇÃO DO MENOR VALOR USANDO JSON PATH E CÓDIGO JAVA
+
+O filtro de extração do JSON Path é mais vantajoso porque ele manipula o JSON em sua forma pura.
+E quanto ao filtro pelo código Java o processo é mais programático, e por conta disso se perde um pouco de performance.
